@@ -5,15 +5,15 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
-* :telescope: Currentky developing software :muscle:
+* :telescope: Currentky developing software with Python, Javascript and MongoDb :muscle:
 
-* :seedling: I am studyng :blue_book: and coding :computer: with Python, Javascript and MongoDb.
+* :seedling: I am studying Quality Assurance Engineering :blue_book: and test automatization :computer:
 
-* :heartbeat: I am encouraged by learning new skills and using them on interesting projects
+* :heartbeat: Inspired to learn new skills and use them in interesting projects
 
 * :mailbox: How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
   
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and Tools :
 
 <div id="header">
 <p align="center">
@@ -30,7 +30,7 @@
 ---
 <div id="header" align="left">
 <p align="left">
-### :fire: Estadísticas:
+:fire: Statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertomaldonado&theme=dark&background=000000)](https://git.io/streak-stats)
 
