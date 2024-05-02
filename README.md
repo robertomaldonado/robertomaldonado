@@ -16,7 +16,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div id="header">
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,mongodb,postgresql" />
     <br />
