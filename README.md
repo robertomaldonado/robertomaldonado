@@ -1,19 +1,3 @@
-
-
-<!--
-**robertomaldonado/robertomaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
  <div id="header" align="left">
 
@@ -23,7 +7,7 @@ Here are some ideas to get you started:
 ---
 * :telescope: Currentky developing software :muscle:
 
-* :seedling: I am studyng :blue_book: and coding :computer: with Python and Javascript frameworks and MongoDb.
+* :seedling: I am studyng :blue_book: and coding :computer: with Python, Javascript and MongoDb.
 
 * :heartbeat: I am encouraged by learning new skills and using them on interesting projects
 
@@ -33,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <a href="https://www.python.org">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img decoding="async" src="[https://img.shields.io/badge/Python-3776AB](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     </a>
     <a href="https://www.mysql.com">
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
