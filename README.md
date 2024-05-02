@@ -2,7 +2,7 @@
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
 ### :man_technologist: About me:
-* :telescope: Currentky developing software with Python, Javascript and MongoDb :muscle:
+* :telescope: Currently developing software with Python, Javascript and MongoDb :muscle:
 
 * :seedling: I am studying Quality Assurance Engineering :blue_book: and test automatization :computer:
 
