@@ -26,3 +26,13 @@
   </a>
 </p>
 </div>
+
+---
+<div id="header" align="left">
+<p align="left">
+### :fire: Estadísticas:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertomaldonado&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</p>
+</div>
