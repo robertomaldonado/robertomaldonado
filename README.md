@@ -9,7 +9,7 @@
 * :heartbeat: Inspired to learn new skills and use them in interesting projects
 
 * :mailbox: How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
-  
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div id="header">
@@ -23,7 +23,6 @@
   </a>
 </p>
 </div>
-
 ---
  ### :fire: Statistics :
 <div id="header" align="left">
