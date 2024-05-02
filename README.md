@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="center">
-    <a  href="https://www.python.org">
+    <a href="https://www.python.org">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
+    </a>
+    <a href="https://www.mysql.com">
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </a>
 </div>
