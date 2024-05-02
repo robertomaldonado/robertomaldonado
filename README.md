@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-    ### Hi there 👋
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
-</div>
+
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="center">
