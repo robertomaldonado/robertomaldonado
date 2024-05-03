@@ -32,8 +32,6 @@
  
 <div id="header" align="left">
 <p align="left">
- <a href src="https://github.com/robertomaldonado">
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robertomaldonado&theme=dark&background=000000)](https://git.io/streak-stats)
- </a>
 </p>
 </div>
