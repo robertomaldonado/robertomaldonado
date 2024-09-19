@@ -4,11 +4,13 @@
 ---
 
 ### :man_technologist: About me:
-*  Currently developing software with Python, Javascript and MongoDb :muscle:
+*  Currently developing software with Python :muscle:
 
-*  I am studying Quality Assurance Engineering :blue_book: and test automatization :computer:
+*  Knowledge in Quality Assurance Engineering :blue_book: Selenium | Cypress | Jira :computer:
 
-*  Inspired to learn new skills and use them in interesting projects (Trying out Github's copilot integrated with VSCode)
+*  Always studying and acquiring more knowledge to expand my skillset
+
+*  Currently training with GCP to be certified as a Cloud Engineer
 
 *  How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
