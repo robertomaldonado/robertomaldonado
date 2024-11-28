@@ -4,13 +4,13 @@
 ---
 
 ### :man_technologist: About me:
-*  Currently developing software with Python :muscle:
+*  Currently developing software with Python and NodeJS :muscle:
 
-*  Knowledge in Quality Assurance Engineering :blue_book: Selenium | Cypress | Jira :computer:
+*  Knowledge in Software development and SDLC :blue_book: :computer:
 
-*  Always studying and acquiring more knowledge to expand my skillset
+*  Always eager to acquire more knowledge to expand my skillset
 
-*  Currently training with GCP to be certified as a Cloud Engineer
+*  Currently training with GCP, Docker and GithubActions
 
 *  How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
