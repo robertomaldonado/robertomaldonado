@@ -4,13 +4,11 @@
 ---
 
 ### :man_technologist: About me:
-*  Currently developing software with Python and NodeJS :muscle:
+*  Currently developing software with nix, python uv, uvicorn, fast-api:muscle:
 
-*  Knowledge in Software development and SDLC :blue_book: :computer:
+*  Knowledge in Software development, microservices and SDLC :blue_book: :computer:
 
-*  Always eager to acquire more knowledge to expand my skillset
-
-*  Currently training with GCP, Docker and GithubActions
+*  Always expanding knowledge to enrich my skillset
 
 *  How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
