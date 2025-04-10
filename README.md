@@ -38,4 +38,6 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomaldonado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![RobMaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertomaldonado&show_icons=true&theme=radical)
 </div>
