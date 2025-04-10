@@ -37,6 +37,8 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomaldonado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomaldonado&layout=compact&theme=vision-friendly-dark)](https://github.com/robertomaldonado/github-readme-stats)
+
+[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={robertomaldonado}&theme={github_dark})]
 
 </div>
