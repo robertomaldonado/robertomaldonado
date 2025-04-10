@@ -4,13 +4,13 @@
 ---
 
 ### :man_technologist: About me:
-*  Currently developing software with nix, python uv, uvicorn, fast-api:muscle:
+*  Currently developing software with nix, python uv, uvicorn, fast-api 
 
 *  Knowledge in Software development, microservices and SDLC :blue_book: :computer:
 
 *  Always expanding knowledge to enrich my skillset
 
-*  How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
+*  Reach out! [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
