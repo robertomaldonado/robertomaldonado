@@ -12,41 +12,19 @@
 
 *  Reach out! [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
-### ☁️: Cloud Platforms :
-<div id="header">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,firebase" />
-  </a>
-</p>
- 
-### 🧰 : Languages and Frameworks :
-<div id="header">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,nodejs" />
-  </a>
-</p>
- 
-### 🎛️ : Development Tools :
-</div>
-<div id="header1">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
-  </a>
-</p>
- 
-### 🤓 : Testing Frameworks :
-</div>
-<div id="header2">
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=cypress,selenium" />
-  </a>
-</p>
-</div>
-   
+### 🧰 Tech Stack
+
+**Languages & Frameworks**  
+<img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,nodejs" />
+
+**Cloud Platforms**  
+<img src="https://skillicons.dev/icons?i=gcp,firebase" />
+
+**Dev Tools & CI/CD**  
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+**Testing Frameworks**  
+<img src="https://skillicons.dev/icons?i=cypress,selenium" /> 
 ---
 
  ### :fire: Statistics :
