@@ -13,19 +13,30 @@
 *  Reach out! [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
-
 <div id="header">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,mongodb,postgresql" />
-    <br />
+  </a>
+</p>
+### :hammer_and_wrench: Languages and Tools :
+</div>
+<div id="header1">
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=selenium,cypress,androidstudio" />
+  </a>
+</p>
+### :hammer_and_wrench: Languages and Tools :
+</div>
+<div id="header2">
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=selenium,cypress,androidstudio" />
   </a>
 </p>
 </div>
-
+   
 ---
 
  ### :fire: Statistics :
