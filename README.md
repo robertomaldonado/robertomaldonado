@@ -2,15 +2,13 @@
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
  
 ---
+### 👨‍💻 About Me
+- 🛠 Currently working with Nix, Python (UV), Uvicorn, and FastAPI
+- 🔍 Strong foundation in microservices, cloud infrastructure, and the SDLC
+- 🚀 Passionate about clean code, scalable systems, and developer tooling
+- 📚 Always learning and contributing to open-source projects
+- 💼 Open to remote opportunities in backend or full-stack development
 
-### :man_technologist: About me:
-*  Currently developing software with nix, python uv, uvicorn, fast-api 
-
-*  Knowledge in Software development, microservices and SDLC :blue_book: :computer:
-
-*  Always expanding knowledge to enrich my skillset
-
-*  Reach out! [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
 ### 🧰 Tech Stack
 
@@ -24,7 +22,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 
 **Testing Frameworks**  
-<img src="https://skillicons.dev/icons?i=cypress,selenium" /> 
+<img src="https://skillicons.dev/icons?i=cypress,selenium" />
+
 ---
 
  ### :fire: Statistics :
