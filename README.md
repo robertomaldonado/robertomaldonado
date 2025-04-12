@@ -1,52 +1,30 @@
+Hi there 👋 I'm Roberto, a backend-focused developer with experience building scalable services using Python, FastAPI, and cloud-native tools. I love working on clean architectures, automating workflows, and constantly improving the developer experience. Let's build something great together!
 
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
  
 ---
+### 👨‍💻 About Me
+- 🛠 Currently working with Nix, Python (UV), Uvicorn, and FastAPI
+- 🔍 Strong foundation in microservices, cloud infrastructure, and the SDLC
+- 🚀 Passionate about clean code, scalable systems, and developer tooling
+- 📚 Always learning and contributing to open-source projects
+- 💼 Open to remote opportunities in backend or full-stack development
 
-### :man_technologist: About me:
-*  Currently developing software with nix, python uv, uvicorn, fast-api 
-
-*  Knowledge in Software development, microservices and SDLC :blue_book: :computer:
-
-*  Always expanding knowledge to enrich my skillset
-
-*  Reach out! [![Linkedin Badge](https://img.shields.io/badge/-Roberto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
 ---
-### ☁️: Cloud Platforms :
-<div id="header">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,firebase" />
-  </a>
-</p>
- 
-### 🧰 : Languages and Frameworks :
-<div id="header">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,nodejs" />
-  </a>
-</p>
- 
-### 🎛️ : Development Tools :
-</div>
-<div id="header1">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
-  </a>
-</p>
- 
-### 🤓 : Testing Frameworks :
-</div>
-<div id="header2">
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=cypress,selenium" />
-  </a>
-</p>
-</div>
-   
+### 🧰 Tech Stack
+
+**Languages & Frameworks**  
+<img src="https://skillicons.dev/icons?i=python,flask,django,javascript,react,nodejs" />
+
+**Cloud Platforms**  
+<img src="https://skillicons.dev/icons?i=gcp,firebase" />
+
+**Dev Tools & CI/CD**  
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+**Testing Frameworks**  
+<img src="https://skillicons.dev/icons?i=cypress,selenium" />
+
 ---
 
  ### :fire: Statistics :
@@ -61,3 +39,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomaldonado&layout=compact&theme=vision-friendly-dark)](https://github.com/robertomaldonado/github-readme-stats)
 
 </div>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to meaningful tech conversations, collaborations, or opportunities.  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jrmaldo/)!
+
+Happy coding! 😃
