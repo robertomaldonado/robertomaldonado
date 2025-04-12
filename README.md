@@ -1,3 +1,4 @@
+Hi there 👋 I'm Roberto, a backend-focused developer with experience building scalable services using Python, FastAPI, and cloud-native tools. I love working on clean architectures, automating workflows, and constantly improving the developer experience. Let's build something great together!
 
  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmaldo/)
  
@@ -38,3 +39,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomaldonado&layout=compact&theme=vision-friendly-dark)](https://github.com/robertomaldonado/github-readme-stats)
 
 </div>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to meaningful tech conversations, collaborations, or opportunities.  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jrmaldo/)!
+
+Happy coding! 😃
