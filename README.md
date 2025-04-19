@@ -4,7 +4,7 @@ Hello 👋 I'm Robert, a backend-focused developer with experience building scal
  
 ---
 ### 👨‍💻 About Me
-- 🛠 Currently working with Nix, Python (UV), Uvicorn, and FastAPI
+- 🛠 Currently working with Python (UV), Uvicorn, and FastAPI
 - 🔍 Strong foundation in microservices, cloud infrastructure, and the SDLC
 - 🚀 Passionate about clean code, scalable systems, and developer tooling
 - 📚 Always learning and contributing to open-source projects
