@@ -20,7 +20,7 @@ Hello 👋 I'm Robert, a backend-focused developer with experience building scal
 <img src="https://skillicons.dev/icons?i=gcp,firebase" />
 
 **Dev Tools & CI/CD**  
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
 
 **Testing Frameworks**  
 <img src="https://skillicons.dev/icons?i=cypress,selenium" />
