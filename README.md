@@ -117,8 +117,7 @@ class Developer:
 - 🦀 **Rust** - Exploring systems programming
 - ☁️ **Advanced GCP** - Cloud architecture patterns  
 - 🤖 **AI/ML Integration** - Enhancing applications with intelligence
-- 🔒 **Advanced Security** - Zero-trust architectures
-
+  
 ---
 
 ## 📫 Let's Connect & Collaborate
